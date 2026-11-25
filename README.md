@@ -1,11 +1,19 @@
-# Lóngora · v0.4
+# Lóngora · v0.5
 
-Çocuklar için Çin ve Japon mitolojisi atlası. 12 karakter, 36 etkileşimli sahne işareti, 12 hikâye sıralama görevi, 36 soru, ilişkiler, aranabilir atlas ve kalıcı keşif koleksiyonu.
+Çocuklara yönelik Çin ve Japon mitolojisi atlası. 12 karakter, 36 keşif noktası, 12 hikâye sıralama görevi, 36 bilgi sorusu, 12 mini oyun, 36 kısa hikâye sayfası ve 12 efsane/gerçek kartı.
 
 ## Kullanım
-Çin/Japonya arasında geçiş yapın. Sahnedeki işaretleri veya yetenek düğmelerini seçerek keşfedin. ⛶ düğmesi odak görünümünü açar; İşaretler düğmesi sahne noktalarını gizler. Atlas > Koleksiyon bölümünde ilerleme gösterilir. Önceki bilgi mühürleri korunur.
+Ana sahnede Hikâyeyi keşfet veya Oyna. Ayarlarda okuma düzeyi, ses efektleri, sakin hareket ve kontrast seçilebilir. Atlas > Koleksiyon kazanımları, Atlas > Tekrar tamamlanmış bilgileri yeniden çalışmayı gösterir. Süre sınırı veya kayıp cezası yoktur.
 
-## Yayın
-GitHub Pages: main / (root). Harici JS bağımlılığı yoktur. SVG sahneleri gerçek 3B değildir; sesli okuma tarayıcının konuşma sentezine bağlıdır. İlerleme yerel cihazda saklanır.
+## Teknik durum
+GitHub Pages: main / (root). SVG tabanlı 2.5D görünüm; gerçek 3B modeller henüz yoktur. Türkçe anlatım yalnızca cihazda yerel Türkçe ses varsa çalışır. Ses efektleri isteğe bağlı Web Audio ile üretilir. İlerleme yerel tarayıcıda saklanır, reklam/analitik yoktur. Hosting normal bağlantı kayıtları tutabilir. Tam çevrimdışı destek, gerçek cihaz ve pedagojik test henüz doğrulanmadı.
 
-Kültür kaynakları: https://izumooyashiro.or.jp/en/myths ; https://www.jinjahoncho.or.jp/en/ ; https://www.metmuseum.org/art/collection/search/61405 ; https://www.metmuseum.org/art/collection/search/54818 . Anlatıların farklı sürümleri olabilir.
+## Eğitim ve erişilebilirlik referansları
+- https://pubmed.ncbi.nlm.nih.gov/38629045/ — oyun temelli öğrenme
+- https://www.nngroup.com/articles/childrens-websites-usability-issues/ — çocuk UX
+- https://www.w3.org/TR/WCAG22/ — erişilebilirlik hedefleri
+- https://design.google/library/making-motion-meaningful — anlamlı hareket
+- https://izumooyashiro.or.jp/en/myths — Izumo anlatıları
+- https://www.jinjahoncho.or.jp/en/ — Şinto kültürel bağlamı
+
+Mitolojik anlatıların farklı sürümleri vardır. İçerik uzman incelemesine açık bir eğitim prototipidir.
