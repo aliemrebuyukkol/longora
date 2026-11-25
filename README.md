@@ -1,8 +1,11 @@
-# Lóngora · v0.3
+# Lóngora · v0.4
 
-Çocuklara yönelik etkileşimli Çin ve Japon mitolojisi atlası. 12 karakter, 36 özellik etkileşimi, 36 bilgi sorusu, iki ayrı ülke koleksiyonu. Tarayıcı desteklediğinde Türkçe hikâye okuma; yerel keşif mühürleri. Harici JS bağımlılığı yok.
+Çocuklar için Çin ve Japon mitolojisi atlası. 12 karakter, 36 etkileşimli sahne işareti, 12 hikâye sıralama görevi, 36 soru, ilişkiler, aranabilir atlas ve kalıcı keşif koleksiyonu.
 
-## GitHub Pages
-Settings → Pages → Deploy from a branch → main / (root) → Save.
+## Kullanım
+Çin/Japonya arasında geçiş yapın. Sahnedeki işaretleri veya yetenek düğmelerini seçerek keşfedin. ⛶ düğmesi odak görünümünü açar; İşaretler düğmesi sahne noktalarını gizler. Atlas > Koleksiyon bölümünde ilerleme gösterilir. Önceki bilgi mühürleri korunur.
 
-Dioramalar SVG tabanlıdır, gerçek 3B değildir. Sesli okuma cihazın konuşma sentezine bağlıdır. Japonya kaynakları: https://izumooyashiro.or.jp/en/myths ve https://www.jinjahoncho.or.jp/en/ . Mitolojik anlatıların farklı sürümleri bulunur.
+## Yayın
+GitHub Pages: main / (root). Harici JS bağımlılığı yoktur. SVG sahneleri gerçek 3B değildir; sesli okuma tarayıcının konuşma sentezine bağlıdır. İlerleme yerel cihazda saklanır.
+
+Kültür kaynakları: https://izumooyashiro.or.jp/en/myths ; https://www.jinjahoncho.or.jp/en/ ; https://www.metmuseum.org/art/collection/search/61405 ; https://www.metmuseum.org/art/collection/search/54818 . Anlatıların farklı sürümleri olabilir.
